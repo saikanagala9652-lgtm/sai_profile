@@ -1,4 +1,4 @@
-ok for this 👋 Hi, I'm **Sai Krishna Kanagala**  
+ 👋 Hi, I'm **Sai Krishna Kanagala**  
 🎯 Entry-Level Software Developer | Python | Java | Django  
 
 ---
